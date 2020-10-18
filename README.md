@@ -55,6 +55,8 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [KeepTruckin](https://keeptruckin.com/careers) | Islamabad / San Francisco, USA | Connecting trucks with the leading fleet management platform—evolving how freight is moved on our roads.
 - [Paitoo.pk](http://paitoo.com.pk/) | Lahore | Paitoo is Pakistan's first crowd sourced food discovery platform, helping users make a decision where to dine through food stories.
 - [Pakwheels](https://pakeventures.simplicant.com/) | Lahore, Karachi | PakWheels is the largest online marketplace for car shoppers and sellers in Pakistan
+- [Planet N Group](http://www.planetngroup.com/) |  Karachi | Planet N Group has several products in Pakistan and worldwide including Tez Financials, Dawaai, Tapmad etc.
+
 - [Sastaticket.pk](https://www.sastaticket.pk/corporate/jobs.aspx) | Karachi | Sastaticket.pk is a one-stop shop for all travel related services. A leading consolidator of travel products, Sastaticket.pk provides reservation facility for domestic and international flights, domestic and international hotels, and holiday packages.
 - [Shahi Sawari](https://shahisawari.pk/views/careers.html) | Lahore | Monthly pick and drop services on cars, rickshaws and vans made affordable with sharing.
 - [Zameen.com](https://www.zameen.com/careers.html) | Lahore |  Zameen is leading property portal based in Pakistan - offering the highest levels of service to property buyers, sellers, landlords and tenants.
@@ -84,6 +86,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Inbox Business Technologies](https://www.inboxbiz.com/) | Islamabad | Inbox Business Technologies is the premier provider of digital services to businesses in Pakistan whose mission is “Providing Agility for the Digital Age”. 
 - [Netsol Technologies](http://careers.netsolpk.com/) | Lahore | Global leaders in providing IT solutions to the asset finance and leasing industry.
 - [NextBridge](http://www.nextbridge.pk) | Lahore, Islamabad, Multan | NextBridge specialize in innovative full lifecycle Software Development, Solutions and Consultancy services.
+- [NextGeni](https://www.nextgeni.com) | Karachi | NextGeni helps create startup teams in Middle East using resources from Karachi.
 - [Systems Limited](https://www.systemsltd.com/careers) | Lahore, Karachi / Dubai, UAE | Systems Limited is a global leader of next-generation IT services and Business Process Outsourcing (BPO) solutions.
 - [Techlogix](https://www.techlogix.com/careers/) | Lahore, Islamabad, Karachi / Boston, USA / Dubai, UAE | A global IT Services, Consulting, and Business Solutions company helping clients achieve enterprise transformation by harmonizing people, business processes, and technology.
 - [Zeropoint.IT](https://zeropoint.hr/) | Islamabad, Pakistan / Leopoldsburg, Belgium / Nugegoda, Sri Lanka | We match strategic IT needs with dedicated remote teams.
